@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm a modded minecrafter.
+I'm Japanese and student.
+I love [CC:Tweaked](https://github.com/cc-tweaked/CC-Tweaked) (minecraft mod)
 
-<!--
-**manmen2414/manmen2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻Programming
+Language:C#,JavaScript,Lua
+Often use:JavaScript,Lua
+Editor:VScode
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Likes
+- Minecraft
+- CC:Tweaked
+- Mekanism (minecraft mod)
+- Super Factory Manager (mod)
+---
+- Sushi (Japanese Food)
