@@ -12,6 +12,8 @@ Language:C#,JavaScript,Lua
 
 Often use:JavaScript,Lua
 
+Want in the future:rust
+
 Editor:VScode
 
 ## Likes
@@ -19,5 +21,4 @@ Editor:VScode
 - CC:Tweaked
 - Mekanism (minecraft mod)
 - Super Factory Manager (mod)
----
-- Sushi (Japanese Food)
+
