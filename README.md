@@ -54,7 +54,7 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
 
 + My開発環境
   + OS: Windows 10 Home
-  + エディタ: [VScode](https://code.visualstudio.com) and so many addons
+  + エディタ: [VScode](https://code.visualstudio.com) とたくさんの拡張機能
   + Git制御: [Sourcetree](https://www.sourcetreeapp.com)
   + CC:Tweaked用のデバッガー: [CraftOS-PC](https://www.craftos-pc.cc)
 
