@@ -74,6 +74,16 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
 
 (Coming Soon / 近日公開)
 
-(I said "soon",But it's a joke! I won't write it.)
+...
 
-(近日公開といったな？あれは噓だ！書くつもりはねえぞ！)
+...
+
+...
+
+...
+
+...
+
+(...I said "soon",But it's a joke! I won't write it.)
+
+(...近日公開といったな？あれは噓だ！書くつもりはねえぞ！)
