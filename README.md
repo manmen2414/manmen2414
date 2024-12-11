@@ -1,8 +1,8 @@
 # Hello, My friend!👋
 
-[English]()
-[Japanese]()
-[NigNigly]()
+[English](https://github.com/manmen2414/manmen2414/blob/main/README.md#english)
+[Japanese](https://github.com/manmen2414/manmen2414/blob/main/README.md#japanese%E6%97%A5%E6%9C%AC%E8%AA%9E)
+[NigNigly](https://github.com/manmen2414/manmen2414/blob/main/README.md#nignigly%E3%81%AB%E3%81%8E%E3%81%AB%E3%81%8E%E8%AA%9E)
 
 ## English
 
@@ -39,7 +39,7 @@ Tasklist:
 - [ ] https://github.com/manmen2414/AE2-Discord-Terminals/issues/4 (Add crafting module)
 
 
-- ## Japanese/日本語
+## Japanese/日本語
 
 どうも、日本に住んでいるごく普通の学生です。
 
@@ -70,7 +70,7 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
 
 
 
-- ## NigNigly/にぎにぎ語
+## NigNigly/にぎにぎ語
 
 (Coming Soon / 近日公開)
 
