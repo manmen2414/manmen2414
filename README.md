@@ -37,7 +37,7 @@ But I cannot make a mod.
 
 Tasklist:
 - [ ] https://github.com/manmen2414/AE2-Discord-Terminals/issues/4 (Add crafting module)
-- [ ] #1
+- [ ] https://github.com/manmen2414/manmen2414/issues/1
 
 
 ## Japanese/日本語
@@ -68,7 +68,7 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
 
 タスクリスト:
 - [ ] https://github.com/manmen2414/AE2-Discord-Terminals/issues/4
-- [ ] #1
+- [ ] https://github.com/manmen2414/manmen2414/issues/1
 
 
 
