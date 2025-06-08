@@ -45,6 +45,8 @@ But I cannot make a mod.
     + [Create](https://www.curseforge.com/minecraft/mc-mods/create)
   + Project Sekai
   + Genshin Impact
+  + UNDERTALE / DELTARUNE
+  + OMORI
 
 
 ## Japanese/日本語
@@ -78,5 +80,7 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
     + [Create](https://www.curseforge.com/minecraft/mc-mods/create)
   + プロセカ
   + 原神
+  + UNDERTALE / DELTARUNE
+  + OMORI
 
 
