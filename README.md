@@ -49,6 +49,8 @@ But I cannot make a mod.
   + OMORI
 
 
+License: https://github.com/makaseloli/Meatwo310-Public-License/
+
 ## Japanese/日本語
 
 どうも、日本に住んでいるごく普通の中学生です。
@@ -83,4 +85,4 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
   + UNDERTALE / DELTARUNE
   + OMORI
 
-
+ライセンス文: https://github.com/makaseloli/Meatwo310-Public-License/
