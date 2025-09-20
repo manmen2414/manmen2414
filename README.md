@@ -1,9 +1,4 @@
-
-
-```js
-const EMOJI = "🎉"
-console.log(EMOJI+" Hello Everyone! "+EMOJI)
-```
+# https://manmen2414.github.io
 
 [English](https://github.com/manmen2414/manmen2414/blob/main/README.md#english)
 [Japanese](https://github.com/manmen2414/manmen2414/blob/main/README.md#japanese%E6%97%A5%E6%9C%AC%E8%AA%9E)
@@ -39,11 +34,12 @@ But I cannot make a mod.
 
 + Likes:
   + Codings
+  + Project Sekai
+  + [Korockle](https://www.topman.co.jp/ky/download/Korockle/6530-010.html)
   + Minecraft
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
     + [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-  + Project Sekai
   + Genshin Impact
   + UNDERTALE / DELTARUNE
   + OMORI
@@ -53,7 +49,7 @@ License: https://github.com/makaseloli/Meatwo310-Public-License/
 
 ## Japanese/日本語
 
-どうも、日本に住んでいるごく普通の中学生です。
+どうも、日本に住んでいるただの中学生です。
 
 > [!WARNING]
 > 受験期間に入るため、これからゲームやコーディングに割ける時間が減ると思われます。
@@ -76,13 +72,14 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
 
 + こんなものが好き:
   + コーディング
+  + プロセカ
+  + [コロックル](https://www.topman.co.jp/ky/download/Korockle/6530-010.html)
   + Minecraft
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
     + [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-  + プロセカ
   + 原神
   + UNDERTALE / DELTARUNE
   + OMORI
 
-ライセンス文: https://github.com/makaseloli/Meatwo310-Public-License/
+この文書のライセンス: https://github.com/makaseloli/Meatwo310-Public-License/
