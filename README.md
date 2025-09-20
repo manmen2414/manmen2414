@@ -5,20 +5,16 @@
 
 ## English
 
-I'm a normal junior high school student.
+I often speak Japanese, so I cannot use English well. Sorry!   
+I'm a normal junior high school student live in Japan.  
+Often I use JavaScript to make something.  
+I'm a modded minecrafter.  
+But I cannot make a mod.  
 
 > [!WARNING]
 > I'll become unable to take time for coding and gaming because I have entrance exam.
 
-I'm live in Japan.
 
-I often speak Japanese.
-
-I cannot use English well. Sorry!
-
-I'm a modded minecrafter.
-
-But I cannot make a mod.
 
 + Programable Langages:
   + JavaScript
@@ -40,7 +36,6 @@ But I cannot make a mod.
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
     + [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-  + Genshin Impact
   + UNDERTALE / DELTARUNE
   + OMORI
 
@@ -49,14 +44,14 @@ License: https://github.com/makaseloli/Meatwo310-Public-License/
 
 ## Japanese/日本語
 
-どうも、日本に住んでいるただの中学生です。
+日本に住んでいるただの中学生です。  
+大体JavaScriptでなんかしてます。  
+Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>  
+なおmodは作れません。  
 
 > [!WARNING]
 > 受験期間に入るため、これからゲームやコーディングに割ける時間が減ると思われます。
 
-Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
-
-なおmodは作れません。
 
 + 扱えるプログラム言語:
   + JavaScript
@@ -78,7 +73,6 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
     + [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-  + 原神
   + UNDERTALE / DELTARUNE
   + OMORI
 
