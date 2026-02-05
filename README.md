@@ -32,6 +32,7 @@ But I cannot make a mod.
   + Codings
   + Project Sekai
   + [Korockle](https://www.topman.co.jp/ky/download/Korockle/6530-010.html)
+  + [Life is Tech! Lesson](https://lifeistech-lesson.com/) (Middle-school)
   + Minecraft
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
@@ -69,6 +70,9 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
   + コーディング
   + プロセカ
   + [コロックル](https://www.topman.co.jp/ky/download/Korockle/6530-010.html)
+    + JavaScriptライブラリ(Web/Node): [manmen2414/MameKorockleLib](https://github.com/manmen2414/MameKorockleLib)
+  + [Life is Tech! Lesson](https://lifeistech-lesson.jp/) (双方向・JSコース)
+    + JavaScriptライブラリ(Web/Node): ~~[manmen2414/lifeistech-api](https://github.com/manmen2414/lifeistech-api)~~
   + Minecraft
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
