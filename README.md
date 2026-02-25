@@ -31,8 +31,11 @@ But I cannot make a mod.
 + Likes:
   + Codings
   + Project Sekai
+  + Gakuen IdolMaster
   + [Korockle](https://www.topman.co.jp/ky/download/Korockle/6530-010.html)
+    + JavaScript Library(Web/Node): [manmen2414/MameKorockleLib](https://github.com/manmen2414/MameKorockleLib)
   + [Life is Tech! Lesson](https://lifeistech-lesson.com/) (Middle-school)
+    + JavaScript Library(Web/Node): [manmen2414/lifeistech-api](https://github.com/manmen2414/lifeistech-api)
   + Minecraft
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
@@ -69,10 +72,11 @@ Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>
 + こんなものが好き:
   + コーディング
   + プロセカ
+  + 学園アイドルマスター
   + [コロックル](https://www.topman.co.jp/ky/download/Korockle/6530-010.html)
     + JavaScriptライブラリ(Web/Node): [manmen2414/MameKorockleLib](https://github.com/manmen2414/MameKorockleLib)
   + [Life is Tech! Lesson](https://lifeistech-lesson.jp/) (双方向・JSコース)
-    + JavaScriptライブラリ(Web/Node): ~~[manmen2414/lifeistech-api](https://github.com/manmen2414/lifeistech-api)~~
+    + JavaScriptライブラリ(Web/Node): [manmen2414/lifeistech-api](https://github.com/manmen2414/lifeistech-api)
   + Minecraft
     + [CC: Tweaked](https://tweaked.cc)
     + [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
