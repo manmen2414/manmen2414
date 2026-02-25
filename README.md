@@ -11,10 +11,6 @@ Often I use JavaScript to make something.
 I'm a modded minecrafter.  
 But I cannot make a mod.  
 
-> [!WARNING]
-> I'll become unable to take time for coding and gaming because I have entrance exam.
-
-
 
 + Programable Langages:
   + JavaScript
@@ -52,9 +48,6 @@ License: https://github.com/makaseloli/Meatwo310-Public-License/
 大体JavaScriptでなんかしてます。  
 Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>  
 なおmodは作れません。  
-
-> [!WARNING]
-> 受験期間に入るため、これからゲームやコーディングに割ける時間が減ると思われます。
 
 
 + 扱えるプログラム言語:
