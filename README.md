@@ -6,7 +6,7 @@
 ## English
 
 I often speak Japanese, so I cannot use English well. Sorry!   
-I'm a normal junior high school student live in Japan.  
+I'm a normal high school student live in Japan.  
 Often I use JavaScript to make something.  
 I'm a modded minecrafter.  
 But I cannot make a mod.  
@@ -44,7 +44,7 @@ License: https://github.com/makaseloli/Meatwo310-Public-License/
 
 ## Japanese/日本語
 
-日本に住んでいるただの中学生です。  
+日本に住んでいるただの高校生です。(最近進学しました！)  
 大体JavaScriptでなんかしてます。  
 Moddedマイクラが好きです。<sub>Moddedこそ正義</sub>  
 なおmodは作れません。  
