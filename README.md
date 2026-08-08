@@ -1,3 +1,8 @@
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,lua,html,css,discordjs,windows,vscode,vim&perline=6" />
+  </a>
+
+  
 My Page: https://mameeenn.com  
 *I'm slacking off to develop lol\
 
