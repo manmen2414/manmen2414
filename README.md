@@ -9,3 +9,4 @@ My Page: https://mameeenn.com
 Recent activity:
 - [Nnose](https://github.com/manmen2414/Nnose) - A school start timer for "nose".
 - [atui-remaked](https://github.com/manmen2414/atui-remaked) - An "atui" fork for remake.
+- [digitalpamphlet-hbts26](https://github.com/manmen2414/digitalpamphlet-htbs26) - A web pamphlet for the school festival.
